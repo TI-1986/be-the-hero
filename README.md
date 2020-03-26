@@ -26,4 +26,4 @@ Frontend
 ## Frontend
 
 #### obs: a página está com zoom reduzido a 50%
-<img align="center" src="/img/Frontend.png"></img>
+<img align="center" src="./img/Frontend.png"></img>
