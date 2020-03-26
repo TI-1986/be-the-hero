@@ -3,9 +3,7 @@
 
  
 
-Projeto
-O Be The Hero é um projeto para incentivar, encontrar e registrar doadores para ongs.
-Frontend
+ 
 <h1 align="center">Semana Omnistack 11</h1>
 <p align="center">Projeto <strong>Be The Hero</strong> </p>
 <p align="center">
@@ -19,11 +17,11 @@ Frontend
   	<img src="https://img.shields.io/github/repo-size/LeoGHz/DoeSangue.svg"></img>
   </a>
 
-##  Projeto
+## 🚀 Projeto
 
-#### O Be The Hero é um projeto para incentivar, encontrar e registrar doadores para ongs.
+#### O Be The Hero é um projeto para incentivar, encontrar e registrar doadores para Ongs.
 
 ## Frontend
 
-#### obs: a página está com zoom reduzido a 50%
+#### obs:Pagina de Logon
 <img align="center" src="./img/Frontend.png"></img>
