@@ -1,5 +1,5 @@
  
-<h1 align="center" color="#7159c1">Semana Omnistack 11 🚀</h1>
+<h1 align="center">Semana Omnistack 11 🚀</h1>
 <p align="center"><img src="https://github.com/TI-1986/be-the-hero/blob/master/frontend/src/assets/logo.svg"></img> </p>
 <p align="center">
 
