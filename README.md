@@ -4,12 +4,12 @@
 <p align="center">
 
   </a>
-    <a aria-label="Dias" href="https://rocketseat.com.br/aulas/semanaomnistack11/11.0?aula=1">
+    <a aria-label="Dias" href="https://github.com/TI-1986/be-the-hero">
     <img src="https://img.shields.io/badge/Dia-1%20de%203-orange"></img>
   </a>
   
   <a aria-label="Repo Size" href="README.md">
-  	<img src="https://img.shields.io/github/repo-size/LeoGHz/DoeSangue.svg"></img>
+  	<img src="https://img.shields.io/github/repo-size/LeoGHz/logo.svg"></img>
   </a>
   
   :wrench: Used technologies:
