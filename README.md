@@ -9,7 +9,7 @@
   </a>
   
   <a aria-label="Repo Size" href="README.md">
-  	<img src="https://img.shields.io/github/repo-size/LeoGHz/logo.svg"></img>
+  	<img src="https://github.com/TI-1986/be-the-hero/blob/master/frontend/src/assets/logo.svg"></img>
   </a>
   
   :wrench: Used technologies:
