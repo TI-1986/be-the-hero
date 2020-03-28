@@ -9,7 +9,7 @@
   </a>
   
   <a aria-label="Repo Size" href="README.md">
-  	<img src="https://github.com/TI-1986/be-the-hero/blob/master/README.md"></img>
+  	<img src=""></img>
   </a>
   
   :wrench: Used technologies:
