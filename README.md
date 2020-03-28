@@ -9,7 +9,6 @@
   </a>
   
   <a aria-label="Repo Size" href="README.md">
-  	<img src=""></img>
   </a>
   
   :wrench: Used technologies:
